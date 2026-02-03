@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 model_name=o3__high
 # BACKEND=FLASH_ATTN
 

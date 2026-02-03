@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 model_name=o4-mini__high
 # BACKEND=FLASH_ATTN
 
