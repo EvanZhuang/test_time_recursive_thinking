@@ -166,10 +166,13 @@ If you have any questions related to the code or the paper, feel free to reach o
 If you find our paper and code useful, please cite us:
 
 ```bibtex
-@article{zhuang2025trt,
-  title={Test-time Recursive Thinking: Self-Improvement without External Feedback},
-  author={Zhuang, Yufan and Liu, Liyuan and Singh, Chandan and Shang, Jingbo and Gao, Jianfeng},
-  journal={arXiv preprint arXiv:},
-  year={2025}
+@misc{zhuang2026testtimerecursivethinkingselfimprovement,
+      title={Test-time Recursive Thinking: Self-Improvement without External Feedback}, 
+      author={Yufan Zhuang and Chandan Singh and Liyuan Liu and Yelong Shen and Dinghuai Zhang and Jingbo Shang and Jianfeng Gao and Weizhu Chen},
+      year={2026},
+      eprint={2602.03094},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.03094}, 
 }
 ```
