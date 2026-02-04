@@ -1,6 +1,6 @@
 <h1 align="center">Test-time Recursive Thinking (TRT)</h1>
 <p align="center"><b>Self-Improvement without External Feedback</b>
-(<a href="https://arxiv.org/abs/">arXiv</a>)</p>
+(<a href="https://arxiv.org/abs/2602.03094">arXiv</a>)</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
